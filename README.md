@@ -2,7 +2,8 @@
 Implementation of a backtracking algorithm (with small modifications) in python that can solve any sudoku puzzle. 
 
 ### Input 
-Input must be in the form of a .txt-file and must have the following format:\
+<p>Input must be in the form of a .txt-file and must have the following format:</p>
+
 060300804\
 537090000\
 040006307\
@@ -13,7 +14,7 @@ Input must be in the form of a .txt-file and must have the following format:\
 000060523\
 102009080
 
-<img src="https://cdn.instructables.com/FMH/LN2I/D0EEPD7QXEE/FMHLN2ID0EEPD7QXEE.LARGE.jpg" width="200" height="200" />
+<img src="http://www.sudokuessentials.com/images/easy_sudoku.gif" width="200" height="200" />
 
 ### Instructions
 To run the script, type the following in terminal: 
